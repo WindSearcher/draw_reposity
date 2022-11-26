@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T07:01:58.175Z" agent="5.0 (Windows)" version="20.5.1" etag="xsr59bMHtS8HawrQ2ZOW" type="github"><diagram id="DhMvold3SxJ4Q7dlmQQz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-26T07:11:05.223Z" agent="5.0 (Windows)" etag="qipu_WllWiahJ313DSTL" version="20.5.1" type="github">
+  <diagram id="DhMvold3SxJ4Q7dlmQQz" name="第 1 页">
+    <mxGraphModel dx="893" dy="252" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sds84R7D_vY4Y2khIh2S-1" value="BERT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sds84R7D_vY4Y2khIh2S-2" value="ResNet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="684" y="449" width="103" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Sds84R7D_vY4Y2khIh2S-4" value="&lt;div&gt;[CLS]昨天是很难忘的一天，所有发生的已经&lt;/div&gt;&lt;div&gt;在脑海中镌刻[SEP]&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="439" y="518" width="252" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Sds84R7D_vY4Y2khIh2S-5" value="Input Text" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="527" y="572" width="69" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
